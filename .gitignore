@@ -1,0 +1,7 @@
+Crea un archivo llamado:
+
+.gitignore
+
+y dentro pon:
+
+node_modules/
